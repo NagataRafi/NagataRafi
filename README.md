@@ -1,21 +1,24 @@
- <div align="center">
-
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+NagataRafi+%F0%9F%91%8B;Student+%7C+Developer+%7C+AI+Enthusiast;Building+ideas+into+reality+%F0%9F%9A%80" alt="Animated introduction" />
 
-### `Code. Learn. Build. Repeat.` 💜
-
-*Exploring the world of software development, artificial intelligence, and creative technology.*
-
+<br/>
+<h3>Code. Learn. Build. Repeat. 💜</h3>
+<p>
+  <em>Exploring the world of software development, artificial intelligence, and creative technology.</em>
+</p>
+<br/>
 <a href="https://github.com/NagataRafi">
-  <img src="https://img.shields.io/badge/GitHub-NagataRafi-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-NagataRafi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://github.com/NagataRafi?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-8B5CF6?style=for-the-badge&logo=github" alt="Projects"/>
+  <img src="https://img.shields.io/badge/EXPLORE-MY_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"/>
 </a>
+<br/>
+<br/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
-
 </div>
+
 
 ---
 
