@@ -109,11 +109,11 @@ A project focused on monitoring and system observation.
 
 ## 🎯 Current Goals
 
-- [ ] Build and publish more complete projects.
-- [ ] Improve software architecture and clean coding practices.
-- [ ] Explore AI and computer vision applications.
-- [ ] Create modern, interactive web experiences.
-- [ ] Keep learning and contributing consistently.
+- [x] Build and publish more complete projects.
+- [x] Improve software architecture and clean coding practices.
+- [x] Explore AI and computer vision applications.
+- [x] Create modern, interactive web experiences.
+- [x] Keep learning and contributing consistently.
 
 ---
 
