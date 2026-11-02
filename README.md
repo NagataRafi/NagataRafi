@@ -1,23 +1,25 @@
-&#x20;\<div align="center">
+ <div align="center">
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=26\&duration=3000\&pause=900\&color=A78BFA\&center=true\&vCenter=true\&width=650\&lines=Hi%2C+I)'m+NagataRafi+%F0%9F%91%8B;Student+%7C+Developer+%7C+AI+Enthusiast;Building+ideas+into+reality+%F0%9F%9A%80" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+NagataRafi+%F0%9F%91%8B;Student+%7C+Developer+%7C+AI+Enthusiast;Building+ideas+into+reality+%F0%9F%9A%80" alt="Animated introduction" />
 
-### Code. Learn. Build. Repeat. 💜
+<br/>
 
-*Exploring software development, artificial intelligence, computer vision, and creative technology.*
+<h3>Code. Learn. Build. Repeat. 💜</h3>
 
-\<a href="[https://github.com/NagataRafi](https://github.com/NagataRafi)">
-&#x20; \<img src="[https://img.shields.io/badge/GITHUB-NagataRafi-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-NagataRafi-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-\</a>
-\<a href="[https://github.com/NagataRafi?tab=repositories](https://github.com/NagataRafi?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/EXPLORE-MY_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE-MY_PROJECTS-8B5CF6?style=for-the-badge\&logo=github\&logoColor=white)" alt="My Projects"/>
-\</a>
+<p><em>Exploring the world of software development, artificial intelligence, and creative technology.</em></p>
 
-\<br/>
+<a href="https://github.com/NagataRafi">
+  <img src="https://img.shields.io/badge/GITHUB-NagataRafi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/NagataRafi?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-MY_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"/>
+</a>
 
-\<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="350" alt="Developer coding animation"/>
+<br/><br/>
 
-\</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
+
+</div>
 
 ---
 
@@ -31,122 +33,100 @@ interests:
   - Web Development
   - Artificial Intelligence
   - Computer Vision
-  - Software Engineering
-  - Creative Technology
+  - Creative Software Projects
 
 currently_learning:
-  - Modern Web Applications
+  - Building Modern Web Applications
   - AI-powered Applications
-  - Software Architecture
+  - Software Engineering
 
 motto: "Learn something new. Build something meaningful."
 ```
 
-- 🎓 Learning and building software through academic and personal projects.
-- 🤖 Exploring practical applications of AI and computer vision.
-- 🌐 Interested in modern web development and interactive experiences.
-- 🔬 Enjoy transforming ideas and academic assignments into working applications.
-- 🚀 Continuously improving through experimentation and development.
+- 🎓 Learning, experimenting, and building projects through technology.
+- 🤖 Interested in combining AI with practical software applications.
+- 🌐 Exploring modern web development and interactive user experiences.
+- 🔬 Enjoy turning ideas and academic assignments into working projects.
+- 🚀 Always learning, improving, and creating something new.
 
 ## 🛠️ Technologies & Tools
 
-\<div align="center">
+<div align="center">
 
 **Frontend & Web**
 
-\<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs\&perline=6)" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend technologies"/>
 
 **Backend & Programming**
 
-\<img src="[https://skillicons.dev/icons?i=nodejs,python,java,kotlin&perline=4](https://skillicons.dev/icons?i=nodejs,python,java,kotlin\&perline=4)" alt="Programming technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,kotlin&perline=4" alt="Programming technologies"/>
 
 **Development Tools**
 
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode&perline=3](https://skillicons.dev/icons?i=git,github,vscode\&perline=3)" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Development tools"/>
 
-\</div>
+</div>
 
-*These icons represent technologies I explore and work with; they do not imply mastery of every tool.*
+*These icons represent technologies I explore and use; they do not imply mastery of every technology listed.*
 
 ## 🚀 Featured Projects
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/NagataRafi?tab=repositories](https://github.com/NagataRafi?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/📂\_EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge](https://img.shields.io/badge/📂_EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge)" alt="Explore repositories"/>
-\</a>
+<a href="https://github.com/NagataRafi?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge" alt="Explore repositories"/>
+</a>
 
-\</div>
+</div>
 
-Explore my repositories to discover applications, experiments, academic projects, and development work.
+### 🌬️ Dryer
 
-\<!--
-Add selected projects here when their repositories are ready.
+A project focused on dryer-related development.
 
-\### 🌌 CampusVerse AI
-A virtual campus concept combining 3D environments, AI, and computer vision.
+[Explore repositories](https://github.com/NagataRafi?tab=repositories)
 
-[View Repository]\(YOUR_REPOSITORY_URL)
+### 📡 Monitoring
 
-\### 🌐 NetScope Local
-A local network diagnostics and QoS analysis laboratory.
+A project focused on monitoring and system observation.
 
-[View Repository]\(YOUR_REPOSITORY_URL)
-
-\### 🕋 HajiCare
-A mobile application concept for supporting Hajj and Umrah pilgrims.
-
-[View Repository]\(YOUR_REPOSITORY_URL)
-\-->
+[Explore repositories](https://github.com/NagataRafi?tab=repositories)
 
 ## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-\<!-- Replace these image URLs only after verifying that the services work. -->
+<p>GitHub contribution activity is displayed in the contribution graph on my profile.</p>
 
-\<!-- GitHub statistics card -->
+</div>
 
-\<!--
-\<img height="165" src="YOUR_WORKING_STATS_IMAGE_URL" alt="GitHub statistics"/>
-\-->
+## 🐍 My Contribution Journey
 
-\<!-- Most used languages card -->
+<div align="center">
 
-\<!--
-\<img height="165" src="YOUR_WORKING_LANGUAGES_IMAGE_URL" alt="Most used languages"/>
-\-->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
-\</div>
-
-## 🐍 Contribution Journey
-
-\<div align="center">
-
-\<img src="[https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="GitHub contribution snake"/>
-
-\</div>
+</div>
 
 ## 🎯 Current Goals
 
-- [x] Build and publish more complete projects.
-- [x] Improve software architecture and clean coding practices.
-- [x] Explore AI and computer vision applications.
-- [x] Develop modern and interactive web experiences.
-- [x] Contribute consistently to open-source projects.
+- [ ] Build and publish more complete projects.
+- [ ] Improve software architecture and clean coding practices.
+- [ ] Explore AI and computer vision applications.
+- [ ] Create modern, interactive web experiences.
+- [ ] Keep learning and contributing consistently.
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### 💜 Thanks for stopping by!
 
 *Every expert was once a beginner.*
 
-\<img src="[https://komarev.com/ghpvc/?username=NagataRafi&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=NagataRafi\&style=for-the-badge\&color=8B5CF6\&label=PROFILE+VIEWS)" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=NagataRafi&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
 
 **Let's build something awesome together!** 🚀
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,12,20\&height=100\&section=footer)" width="100%" alt="Footer decoration"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
-\</div>
+</div>
