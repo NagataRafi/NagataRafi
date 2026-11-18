@@ -95,15 +95,21 @@ A project focused on monitoring and system observation.
 
 <div align="center">
 
-<p>GitHub contribution activity is displayed in the contribution graph on my profile.</p>
+<a href="https://github.com/NagataRafi">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=NagataRafi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/NagataRafi">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NagataRafi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</a>
 
 </div>
 
-## 🐍 My Contribution Journey
+## 🌌 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" width="100%"/>
 
 </div>
 
